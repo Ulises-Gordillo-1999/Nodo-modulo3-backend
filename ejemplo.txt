@@ -1,0 +1,5 @@
+Este es un archivo de ejemplo utilizado en el Trabajo Práctico Nº1: Introducción a Git y GitHub.
+
+Sirve para practicar las operaciones básicas de Git como agregar, commitear y subir archivos a un repositorio remoto en GitHub.
+
+Autor: Ulises
